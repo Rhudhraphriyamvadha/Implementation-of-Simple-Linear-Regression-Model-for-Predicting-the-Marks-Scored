@@ -22,11 +22,9 @@ Model Evaluation Calculate Mean Squared Error (MSE), Mean Absolute Error (MAE), 
 
 ## Program:
 ```
-
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Rhudhra phriyamvadha K S
 RegisterNumber: 212224040275
-
 ```
 ```
 import pandas as pd
